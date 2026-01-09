@@ -28,8 +28,5 @@ You can download the summaries as images directly from the files above.
 
 ---
 
-## ⭐ Support | الدعم
-If you found this helpful, please give this repository a **Star (⭐)** at the top right!
-إذا استفدت من الملخص، لا تنسَ ضغط علامة النجمة في أعلى الصفحة لدعم المحتوى.
 
 **Developed by: Dexon**
